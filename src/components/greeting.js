@@ -14,7 +14,7 @@ const Greeting = () => {
   return (
     <div className="card" data-tilt data-tilt-scale="0.95" data-tilt-starty="40">
       <div className="year">
-        <h2 className="card__title">{greeting}</h2>
+        <h2>{greeting}</h2>
       </div>
     </div>
   );
