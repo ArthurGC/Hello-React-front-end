@@ -17,18 +17,18 @@ To get a local copy up and running follow these simple steps:
 **First Steps**
 
 1. Clone it using git command:
-      ```js
+      ```ruby
         git clone https://github.com/ArthurGC/Hello-React-front-end.git
       ```
 
 **Run in development (locally)**
 
 1. Install dependencies:
-      ```js
+      ```ruby
         npm install
       ```
 2. Run server
-      ```js
+      ```ruby
         npm run start
       ```
 
