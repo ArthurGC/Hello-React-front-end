@@ -1,9 +1,7 @@
 import './App.css';
 
-const App = () => {
-  return (
-    <div>Hola</div>
-  )
-}
+const App = () => (
+  <div>Hola</div>
+);
 
 export default App;
