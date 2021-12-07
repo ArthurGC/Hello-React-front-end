@@ -4,7 +4,7 @@
 Hello React Front End is a react application to show a random greeting.
 ## :hammer: Preview
 
-- Under construction
+![front-end-greeting (1)](https://user-images.githubusercontent.com/79876959/145080370-2538bc40-118e-4245-94eb-1045091a241b.gif)
 
 ## :hammer: Built With
 
